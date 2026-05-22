@@ -5,10 +5,10 @@ I'm **Makenzie** (she/they), a programmer located on the East Coast! I'm an aspi
 - Scrapbooking
 - Coding
 - Hanging out with my friends!♪(^∇^*)
-
+### Ask me about...
+The game I'm working on! Make sure to check it out when it comes out! 💜
 <br>
-<img src=[https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Governor_Andrew_Cuomo_in_2021.jpg/960px-Governor_Andrew_Cuomo_in_2021.jpg](https://media.tenor.com/bmxESZp93QYAAAAM/cute-staring-cat.gif) />
-
+<img src=https://static.vecteezy.com/system/resources/thumbnails/068/222/926/small/close-up-of-a-charming-ginger-kitten-with-big-blue-eyes-resting-on-a-soft-blanket-photo.jpg />
 <!--
 **108510/108510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
