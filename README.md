@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hello!༼ つ ◕_◕ ༽つ
+I'm **Makenzie**, a programmer located on the East Coast! I'm an aspiring game developer, and I've worked on a few small projects!🎶
+<br>
+### I like:
+- Scrapbooking
+- Coding
+- Hanging out with my friends!♪(^∇^*)
+
+<br>
+<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Governor_Andrew_Cuomo_in_2021.jpg/960px-Governor_Andrew_Cuomo_in_2021.jpg />
 
 <!--
 **108510/108510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
